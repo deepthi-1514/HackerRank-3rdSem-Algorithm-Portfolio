@@ -7,8 +7,8 @@
 - **Program:** B.Tech – Computer Science and Engineering
 - **Semester:** 3rd Semester
 - **University:** REVA University
-- **HackerRank Profile:** [Add your public HackerRank profile URL]
-- **GitHub Repository:** [Add your GitHub repository URL]
+- **HackerRank Profile:** https://www.hackerrank.com/profile/deepthiyadavk721
+- **GitHub Repository:** https://github.com/deepthi-1514/HackerRank-3rdSem-Algorithm-Portfolio
 
 ## Introduction
 
