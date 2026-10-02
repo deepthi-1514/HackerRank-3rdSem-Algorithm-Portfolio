@@ -68,7 +68,28 @@ Sort the prices in ascending order and purchase the cheapest toys first while th
 
 ## Evidence
 
-Screenshots of the accepted HackerRank submissions and Binary Search execution are maintained as evidence for the completed problems.
+The following evidence has been collected for the completed problems:
+
+1. **Mini-Max Sum** – Accepted HackerRank submission screenshot.
+2. **Birthday Cake Candles** – Accepted HackerRank submission screenshot.
+3. **Insertion Sort – Part 1** – Accepted HackerRank submission screenshot.
+4. **Binary Search** – Successful C++ execution in VS Code.
+5. **Mark and Toys** – Successful C++ execution in VS Code.
+
+### HackerRank Challenge Links
+
+- [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+- [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+- [Insertion Sort – Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
+- [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+
+### HackerRank Profile
+
+[View my public HackerRank profile](https://www.hackerrank.com/profile/deepthiyadavk721)
+
+### GitHub Repository
+
+[View the GitHub repository](https://github.com/deepthi-1514/HackerRank-3rdSem-Algorithm-Portfolio)
 
 ## Reflection
 
